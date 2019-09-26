@@ -43,6 +43,7 @@ class App:
         self.btn_logar = Button(self.Frame, text='Entrar', bg='gray', command=self.btn_logar_click)
         self.btn_logar.place(x=75, y=150)
 
+
         master.title('Login')
 
 
